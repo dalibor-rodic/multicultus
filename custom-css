@@ -1,0 +1,320 @@
+/*MAIN MENU*/
+
+.header-top .left a:hover{
+	color: #f5d976;
+}
+
+.logonavigation{
+	border-bottom-style: solid; 
+	border-width: 1.5px; 
+	border-bottom-color: #f5d976;
+}
+
+.header-top{
+	background-color:black;
+border-bottom-style: solid; 
+	border-width: 0.5px; 
+	border-bottom-color: #f5d976;}
+
+
+/*AUDIO PLAYER*/
+
+/*Button*/
+
+.ai-wrap .ai-audio-control{
+	background-color: #f5d976;
+}
+
+.ai-wrap .ai-audio-control svg{
+	fill: black;
+}
+
+/*Button-hover*/
+
+.ai-wrap .ai-audio-control:hover svg{
+	fill: black;
+}
+
+.ai-wrap .ai-audio-control:hover, .ai-wrap .ai-audio-control:focus{
+	background-color: #fff
+}
+
+/*Playlist*/
+
+.ai-wrap .ai-track:hover, .ai-wrap .ai-track.ai-track-active{
+	background-color: #f5d976;
+	color:black
+}
+
+.ai-wrap .ai-btn.ai-btn-active{
+	background-color: #f5d976;
+	color: black;
+}
+
+.ai-wrap .ai-btn:hover{
+	background-color: #f5d976;
+	color: black;
+}
+
+.ai-wrap .ai-btn:hover svg{
+	fill: black;
+}
+
+.ai-wrap .ai-volume-bar.ai-volume-bar-active::before{
+	background-color: #f5d976;
+}
+
+.ai-wrap .ai-track-progress{
+	background-color: #f5d976;
+}
+
+.ai-wrap .ai-scroll-wrap > div:last-child div{
+	background-color: #f5d976 !important;
+}
+
+
+/*HOME - FEATURED VIDEOS*/
+
+.vdolist{
+	background-color: gray;
+}
+
+.vdolist .playbtn{
+	background: url(https://multicultus.com/wp-content/uploads/2019/03/musicplaybtn_white-black.png) no-repeat center top	
+}
+
+.vdolist img{
+	opacity: 0.35;
+}
+
+.videocontent{
+	left: 0px;
+	right: 0px;
+}
+
+/*Button*/
+
+.wp-block-button__link{
+	color: #000;
+	background-color: #f5d976
+}
+
+
+/*VIDEOS*/
+
+.wp-block-button__link{
+	border-radius: 10px;
+	font-weight:bold;
+	background-color: #f5d976;
+	padding: 5px 15px;
+	font-size: 25px
+}
+
+.wp-block-button__link:hover{
+	background-color: white !important;
+	color: black !important;
+}
+
+
+/*HOMEPAGE SLIDER*/
+
+.nivo-caption h2{
+	font-size: 35px;
+	color: #ffffff;
+	text-shadow: 0 0 5px #000000;
+	text-transform:none;
+}
+
+.nivo-caption p{
+	font-size: 30px;
+	text-shadow: 0 0 5px #000000;
+}
+
+.slidereadmore:hover{
+	font-size:20px;
+	text-shadow: 0 0 5px #000000;
+	border: 3px solid #f5d976;
+	color: #f5d976;
+}
+
+.slidereadmore{
+	font-size:20px;
+	text-shadow: 0 0 5px #000000;
+	border: 3px solid white;
+	color: white;
+	border-radius:15px;
+}
+
+.nivo-caption.slidereadmore{
+	text-transform: capitalize;
+}
+
+
+/*HOMEPAGE SECTION TITLES*/
+
+h2.section_title{
+	text-transform:none;
+	font-size:35px;
+	font-weight: 200;
+}
+
+/*HOME - NEWS*/
+.news-box .newsdesc p{
+	font-size: 16px
+}
+
+a.newsmorebtn{
+	border-radius: 10px;
+	font-size:20px;
+	font-weight:bold;
+	background-color: #f5d976;
+	padding: 5px 15px;
+}
+
+a.newsmorebtn:hover{
+	background-color: white !important;
+	color: black !important;
+}
+
+p.read-more a{
+	font-size:20px;
+	font-weight:bold;
+	border-radius: 10px;
+}
+
+p.read-more a:hover{
+	background-color:white !important;
+	color:black !important;
+}
+
+/*TEAM*/
+.teamreadmore{
+	display:none;
+}
+
+.member-social-icon a{
+	font-size:30px;}
+
+.teammember-list cite{font-size:25px}
+
+/*FOOTER*/
+
+.ftr_textlogo h2{
+	text-transform:none;
+	font-weight: 200;
+	font-size:35px;
+}
+
+div.menu-main-menu-container{
+	font-size:20px;
+	font-weight:normal;
+}
+
+div.design-by{
+	font-size:16px;
+	font-weight:normal;
+}
+
+/*BACK TO TOP*/
+
+#back-top span{
+  display: block;
+  margin-bottom: 7px;
+  background: url(https://multicultus.com/wp-content/uploads/2019/03/custom-up-arrow_01.png) no-repeat center center;
+  transition: 1s;
+  opacity: 0.4;
+	cursor: pointer;
+}
+
+
+/*CONTACT*/
+
+input.search-submit{
+	border-radius: 10px !important;
+	font-weight:bold;
+	font-size: 20px;
+	background-color: #f5d976;
+	padding: 5px 15px;
+}
+
+input.search-submit:hover{
+	background-color: white;
+	color: black;
+}
+
+/*NEWS*/
+
+a.button{
+	border-radius: 10px;
+	font-weight:bold;
+	background-color: #f5d976;
+	padding: 5px 15px;
+	font-size:25px;
+}
+
+a.button:hover{
+	background-color: white;
+	color: black;
+}
+
+.pagination ul li a{
+	background-color: #f5d976;
+}
+
+.pagination ul li a:hover{
+	background-color: white;
+}
+
+.pagination ul li .current{
+	background-color: white !important;
+	font-weight:bold;
+}
+
+.post-comment{
+	display:none;
+}
+
+/*Right widget*/
+
+select#archives-dropdown-2{
+	font-weight:bold;
+	background-color: #f5d976;
+	font-size:16px;
+	border-radius:5px;
+	cursor: pointer;
+}
+
+select#cat.postform{
+	font-weight:bold;
+	background-color: #f5d976;
+	font-size:16px;
+	border-radius:5px;
+	cursor: pointer;
+}
+
+
+/*WEBSITE TEXT*/
+h5{
+	color:darkgray;
+}
+
+h1{
+	color:darkgray;
+}
+
+h4{
+	color:darkgray;
+}
+
+/*MOBILE MENU*/
+
+a.toggleMenu{
+	color:black;
+	font-size:24px;
+	font-weight: 600;
+	background: url(https://multicultus.com/wp-content/uploads/2019/03/mobilenav.png) no-repeat right center #f5d976;
+}
+
+a.toggleMenu:hover{
+	color:black !important
+}
