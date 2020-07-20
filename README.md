@@ -1,0 +1,2 @@
+# multicultus
+I designed this website for the rock band I used to manage. Its purpose is to showcase all the info that fans, promoters, venues, media and others need to know about the band.  I used a dominantly dark theme with golden details as contrast, so the site reflects the image of the band. I added some basic elements of a music website, such as section with band’s songs, tour dates, news feed, and band’s technical rider.
